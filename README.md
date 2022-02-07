@@ -1,11 +1,4 @@
-# AugmentedRealityProject
-This is a pilot study using augmented reality goggles to simulate monocular suppression while watching a movie. It omits any identifiable datasets 
-The pilot study was terminated in March of 2020 due to COVID and was adapted to a remote study
-The code that manipulated the goggles was written in MATLAB
-All statistical analyses of participants data was conducted in R 
-
-# Interocular Suppression Increases Over Five Days’ Exposure to Incompatible Natural Images![image](https://user-images.githubusercontent.com/52045042/152890537-d21050c0-aa2c-4950-bc5f-1dda66eba640.png)
-
+# Interocular Suppression Increases Over Five Days’ Exposure to Incompatible Natural Images
 **Project Status: Early-termination**
 
 ## Table of Contents
