@@ -1,5 +1,5 @@
 # Interocular Suppression Increases Over Five Days’ Exposure to Incompatible Natural Images
-**Project Status: Early-termination**
+**Project Status: Early-termination due to COVID-19 pandemic**
 
 ## Table of Contents
 - [Project Objective](##Project-Objective)
