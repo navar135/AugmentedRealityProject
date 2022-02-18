@@ -23,4 +23,5 @@ To measure suppression during video watching, participants were asked to detect 
 - MATLAB 
 - PsychToolBox
 - R 
+- Live Feed Goggles
 
